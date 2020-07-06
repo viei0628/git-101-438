@@ -1,0 +1,6 @@
+Make some changes
+Happy!
+1. git status
+2. git diff <name of file>
+3. git add <names of the files>
+4. git commit-m "A meaningful message"
